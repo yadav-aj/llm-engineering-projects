@@ -5,6 +5,31 @@ Hands-on Python projects exploring Large Language Models (LLMs), prompt engineer
 
 Built while learning LLM engineering concepts from Ed Donner's course, using locally hosted models with Ollama.
 
+
+
+## Project Demos
+
+These screenshots demonstrate the projects running locally with Ollama and Qwen.
+
+### 1. Website Summarizer
+
+Extracts website content and generates an AI-powered summary.
+
+![Website Summarizer Demo](screenshots/website-summarizer.png)
+
+### 2. Multi-Page Company Brochure Generator
+
+Selects relevant website pages, validates URLs, extracts content, and generates a Markdown brochure using a local LLM.
+
+![Company Brochure Generator Demo](screenshots/company-brochure.png)
+
+### 3. Conversation Memory Chatbot
+
+Demonstrates how an LLM uses conversation history to answer follow-up questions.
+
+![Conversation Memory Demo](screenshots/conversation-memory.png)
+
+
 ## Tech Stack
 
 - Python
