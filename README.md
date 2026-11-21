@@ -61,8 +61,8 @@ Demonstrates text encoding, token IDs, token counts, and decoding with `tiktoken
 Clone this repository and install dependencies:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+git clone https://github.com/yadav-aj/llm-engineering-projects.git
+cd llm-engineering-projects
 
 python -m venv .venv
 ```
